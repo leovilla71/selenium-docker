@@ -1,0 +1,11 @@
+{
+  "firstName": "Paulina",
+  "lastName": "Villa",
+  "email": "leo@hotmail.com",
+  "password": "docker",
+  "street": "San Vicente",
+  "city": "Zapopan",
+  "zip": "45040",
+  "passengersCount": "3",
+  "expectedPrice": "$1753 USD"
+}

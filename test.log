@@ -1,0 +1,1645 @@
+1027 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1496 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+1522 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+10856 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733623877601
+10856 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+1124 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1657 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+1685 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+13757 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733624390457
+13757 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+14449 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+14457 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+21001 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733624397619
+21001 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+21668 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+21675 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+30736 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733624407557
+30736 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+31407 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+31412 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+39123 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733624415849
+39123 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+1099 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\leovi\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+2209 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2233 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+7911 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+1076 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\leovi\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+1603 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+1629 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+7070 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+1051 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\leovi\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+1545 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+1574 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+1016 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\leovi\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+1554 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+1580 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+7103 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+1033 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\leovi\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+1561 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+1587 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+10376 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+1114 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1636 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+1660 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+9421 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733669510934
+9421 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+10122 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+10133 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+18309 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733669519784
+18309 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+19015 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+19021 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+27708 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733669528882
+27708 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+28412 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+28418 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+36198 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733669537511
+36199 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+1090 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\leovi\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+1591 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+1617 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+9533 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+857  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+2144 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2163 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+13614 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733702157585
+13614 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+13795 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+13801 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+21004 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733702164651
+21004 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+21189 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+21196 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+27841 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733702171399
+27841 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+28008 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+28014 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+36296 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733702179884
+36297 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+788  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Users\leovi\AppData\Local\JetBrains\IdeaIC2024.3\temp-testng-customsuite.xml
+
+1237 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+1263 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+6436 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+888  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+2545 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2573 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+5547 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+8423 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+9597 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+9604 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+10397 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+12098 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+13588 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+13593 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+14271 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+16353 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+925  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1419 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+1447 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+3339 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/passenger-1
+3341 [main] ERROR com.leo.util.JsonUtil -- Unable to read test data file test-data/vendor-portal/passenger-1
+java.nio.file.NoSuchFileException: test-data\vendor-portal\passenger-1
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:422)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:160)
+	at com.leo.util.ResourceLoader.getResource(ResourceLoader.java:27)
+	at com.leo.util.JsonUtil.getTestData(JsonUtil.java:19)
+	at com.leo.tests.flightreservation.FlightReservationTest.setParameters(FlightReservationTest.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:655)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:644)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+4718 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+4724 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+5434 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/passenger-2
+5435 [main] ERROR com.leo.util.JsonUtil -- Unable to read test data file test-data/vendor-portal/passenger-2
+java.nio.file.NoSuchFileException: test-data\vendor-portal\passenger-2
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:422)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:160)
+	at com.leo.util.ResourceLoader.getResource(ResourceLoader.java:27)
+	at com.leo.util.JsonUtil.getTestData(JsonUtil.java:19)
+	at com.leo.tests.flightreservation.FlightReservationTest.setParameters(FlightReservationTest.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:655)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:644)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+6852 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+6861 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+8725 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/passenger-3
+8726 [main] ERROR com.leo.util.JsonUtil -- Unable to read test data file test-data/vendor-portal/passenger-3
+java.nio.file.NoSuchFileException: test-data\vendor-portal\passenger-3
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:422)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:160)
+	at com.leo.util.ResourceLoader.getResource(ResourceLoader.java:27)
+	at com.leo.util.JsonUtil.getTestData(JsonUtil.java:19)
+	at com.leo.tests.flightreservation.FlightReservationTest.setParameters(FlightReservationTest.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:655)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:644)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+10653 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+10660 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+11517 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/passenger-4
+11518 [main] ERROR com.leo.util.JsonUtil -- Unable to read test data file test-data/vendor-portal/passenger-4
+java.nio.file.NoSuchFileException: test-data\vendor-portal\passenger-4
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:422)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:160)
+	at com.leo.util.ResourceLoader.getResource(ResourceLoader.java:27)
+	at com.leo.util.JsonUtil.getTestData(JsonUtil.java:19)
+	at com.leo.tests.flightreservation.FlightReservationTest.setParameters(FlightReservationTest.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:655)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:644)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+878  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1385 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+1413 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+3110 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/passenger-1.json
+3112 [main] ERROR com.leo.util.JsonUtil -- Unable to read test data file test-data/vendor-portal/passenger-1.json
+java.nio.file.NoSuchFileException: test-data\vendor-portal\passenger-1.json
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:422)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:160)
+	at com.leo.util.ResourceLoader.getResource(ResourceLoader.java:27)
+	at com.leo.util.JsonUtil.getTestData(JsonUtil.java:19)
+	at com.leo.tests.flightreservation.FlightReservationTest.setParameters(FlightReservationTest.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:655)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:644)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+4203 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+4209 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+4939 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/passenger-2.json
+4940 [main] ERROR com.leo.util.JsonUtil -- Unable to read test data file test-data/vendor-portal/passenger-2.json
+java.nio.file.NoSuchFileException: test-data\vendor-portal\passenger-2.json
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:422)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:160)
+	at com.leo.util.ResourceLoader.getResource(ResourceLoader.java:27)
+	at com.leo.util.JsonUtil.getTestData(JsonUtil.java:19)
+	at com.leo.tests.flightreservation.FlightReservationTest.setParameters(FlightReservationTest.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:655)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:644)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+5981 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+5986 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+6720 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/passenger-3.json
+6721 [main] ERROR com.leo.util.JsonUtil -- Unable to read test data file test-data/vendor-portal/passenger-3.json
+java.nio.file.NoSuchFileException: test-data\vendor-portal\passenger-3.json
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:422)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:160)
+	at com.leo.util.ResourceLoader.getResource(ResourceLoader.java:27)
+	at com.leo.util.JsonUtil.getTestData(JsonUtil.java:19)
+	at com.leo.tests.flightreservation.FlightReservationTest.setParameters(FlightReservationTest.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:655)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:644)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+7813 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+7820 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+8521 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/passenger-4.json
+8522 [main] ERROR com.leo.util.JsonUtil -- Unable to read test data file test-data/vendor-portal/passenger-4.json
+java.nio.file.NoSuchFileException: test-data\vendor-portal\passenger-4.json
+	at java.base/sun.nio.fs.WindowsException.translateToIOException(WindowsException.java:85)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:103)
+	at java.base/sun.nio.fs.WindowsException.rethrowAsIOException(WindowsException.java:108)
+	at java.base/sun.nio.fs.WindowsFileSystemProvider.newByteChannel(WindowsFileSystemProvider.java:236)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)
+	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)
+	at java.base/java.nio.file.spi.FileSystemProvider.newInputStream(FileSystemProvider.java:422)
+	at java.base/java.nio.file.Files.newInputStream(Files.java:160)
+	at com.leo.util.ResourceLoader.getResource(ResourceLoader.java:27)
+	at com.leo.util.JsonUtil.getTestData(JsonUtil.java:19)
+	at com.leo.tests.flightreservation.FlightReservationTest.setParameters(FlightReservationTest.java:19)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:77)
+	at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:569)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:141)
+	at org.testng.internal.invokers.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:71)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:400)
+	at org.testng.internal.invokers.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:333)
+	at org.testng.TestRunner.invokeTestConfigurations(TestRunner.java:655)
+	at org.testng.TestRunner.beforeRun(TestRunner.java:644)
+	at org.testng.TestRunner.run(TestRunner.java:610)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:421)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:413)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:373)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:312)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:95)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1274)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1208)
+	at org.testng.TestNG.runSuites(TestNG.java:1112)
+	at org.testng.TestNG.run(TestNG.java:1079)
+	at com.intellij.rt.testng.IDEARemoteTestNG.run(IDEARemoteTestNG.java:65)
+	at com.intellij.rt.testng.RemoteTestNGStarter.main(RemoteTestNGStarter.java:105)
+828  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1340 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+1378 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+3160 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+11934 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733711697066
+11934 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+12135 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+12141 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+12851 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+20393 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733711705546
+20394 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+20580 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+20590 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+21276 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+29221 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733711714349
+29221 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+29388 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+29394 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+30228 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+38167 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733711723218
+38167 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+905  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1439 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+1462 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+4084 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+12418 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733712425233
+12418 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+12600 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+12607 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+13323 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+22034 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733712435080
+22034 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+22211 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+22220 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+23034 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+29656 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733712442931
+29656 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+29835 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+29840 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+30537 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+38148 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733712451188
+38149 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+778  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+2086 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+2106 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+3811 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+7106 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+8682 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+8688 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+9368 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+13545 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+15077 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.87 (resolved driver for Chrome 131)
+15083 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.87\chromedriver.exe
+15777 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+18160 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+725  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+2140 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2221 [main] INFO  i.g.b.wdm.online.Downloader -- Downloading https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.108/win64/chromedriver-win64.zip
+3119 [main] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-win64.zip
+3474 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+5657 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+9276 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+10861 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+10870 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+11568 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+13842 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+15414 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+15422 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+16134 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+18127 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+846  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1315 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1340 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2733 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+10500 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733962074835
+10500 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+10712 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+10719 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+11457 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+17048 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733962081270
+17048 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+17241 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+17247 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+17942 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+26099 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733962089967
+26105 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+26289 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+26295 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+27098 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+34208 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1733962098128
+34208 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+864  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+2337 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2367 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+4555 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+11019 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734308943046
+11019 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+11226 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+11236 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+11939 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+16910 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734308948680
+16910 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+17074 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+17079 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+17739 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+24296 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734308956079
+24296 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+24474 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+24483 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+25155 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+33151 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734308965045
+33151 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+806  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+1262 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1285 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2601 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+5542 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+7111 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+7120 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+7798 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+11097 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+12627 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+12636 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+13310 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+15933 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+923  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+2052 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2075 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+3746 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+6684 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+8326 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+8334 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+9045 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+11435 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+12953 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+12959 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+13640 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+15789 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+886  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+8296 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+11610 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+13791 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+16640 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+19007 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+23032 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+953  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+4087 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+12816 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734314473940
+12816 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+13478 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+22842 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734314483709
+22842 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+23433 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+29776 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734314491174
+29776 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+30530 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+38636 [main] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734314499718
+38636 [main] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+829  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+7233 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+10649 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+14890 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+16996 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+21260 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+23975 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+851  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+1322 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1347 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+3190 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+5264 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+6859 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+6866 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+7638 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+9545 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+11119 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+11126 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+11804 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+14871 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+865  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+1349 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1375 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+3705 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+6729 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+8267 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+8272 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+9002 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+12214 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+13739 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+13744 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+14467 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+17780 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+799  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+8527 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+11367 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+16681 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+23339 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+27211 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+30926 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+898  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+1404 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1459 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+3656 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+5648 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+7179 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+7186 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+7899 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+9674 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+11306 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+11312 [main] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+12030 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+15447 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+889  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+9209 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+12709 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+18612 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+21959 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+26453 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+29536 [main] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+742  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+2117 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2117 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2117 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+2151 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2151 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+2152 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+5681 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+5681 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+5681 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+8631 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+9277 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+9505 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+836  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+1403 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1403 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1403 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1433 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+1434 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+1434 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+3760 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+3760 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+3760 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+6378 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+6679 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+7291 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+837  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+1453 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1453 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1453 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1494 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+1494 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+1495 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+4377 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+4377 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+4377 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+7554 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+7866 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+8516 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+802  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+1383 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1383 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1383 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1419 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+1419 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+1419 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+3782 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+3782 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+3782 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+6803 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+7214 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+7904 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+835  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1393 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1393 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1393 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1393 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.108 (resolved driver for Chrome 131)
+1422 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+1422 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+1422 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+1422 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.108\chromedriver.exe
+4139 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+4139 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+4139 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+4139 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+11574 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734319755567
+11574 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+11761 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734319755676
+11762 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+12509 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734319756416
+12509 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+12676 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734319756599
+12676 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+928  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+8915 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+18121 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734319862804
+18121 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+22817 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+30437 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734319875392
+30438 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+33792 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+39584 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734319884567
+39584 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+42561 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+50097 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734319895104
+50097 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+1077 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+6571 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+14586 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734319942405
+14587 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+17653 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+26475 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734319954509
+26475 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+30394 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+37563 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734319965558
+37563 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+41196 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+49587 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734319977838
+49588 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+750  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+7312 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+13229 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734532621251
+13229 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+16473 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+24572 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734532632685
+24572 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+28625 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+37332 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734532645073
+37332 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+40889 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+48398 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734532656190
+48399 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+812  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+6772 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+6772 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+6772 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+6772 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+16210 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734573442042
+16211 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+17037 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734573442888
+17038 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+17846 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734573443801
+17847 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+19961 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734573446402
+19961 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+935  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+5359 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+5359 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+5359 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+8359 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+9416 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+9779 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+413  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+420  [main] INFO  com.leo.util.Config -- Test properties
+421  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+421  [main] INFO  com.leo.util.Config -- browser=chrome
+421  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+421  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+421  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+421  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+322  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+327  [main] INFO  com.leo.util.Config -- Test properties
+327  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+327  [main] INFO  com.leo.util.Config -- browser=edge
+327  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+327  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+327  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+327  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+840  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+870  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+872  [main] INFO  com.leo.util.Config -- Test properties
+872  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+872  [main] INFO  com.leo.util.Config -- browser=chrome
+872  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+872  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+872  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+872  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+2459 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+2461 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+2462 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+2542 [TestNG-tests-3] INFO  i.g.b.wdm.online.Downloader -- Downloading https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/win64/chromedriver-win64.zip
+2548 [TestNG-tests-1] INFO  i.g.b.wdm.online.Downloader -- Downloading https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/win64/chromedriver-win64.zip
+2548 [TestNG-tests-2] INFO  i.g.b.wdm.online.Downloader -- Downloading https://storage.googleapis.com/chrome-for-testing-public/131.0.6778.204/win64/chromedriver-win64.zip
+4857 [TestNG-tests-1] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-win64.zip
+4996 [TestNG-tests-3] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-win64.zip
+5226 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+5288 [TestNG-tests-2] INFO  i.g.b.wdm.online.Downloader -- Extracting driver from compressed file chromedriver-win64.zip
+6037 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+6042 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+8819 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+8819 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+8819 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+12177 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+12237 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+12732 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+932  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+964  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+965  [main] INFO  com.leo.util.Config -- Test properties
+965  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+965  [main] INFO  com.leo.util.Config -- browser=chrome
+965  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+965  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+965  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+965  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1572 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1572 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1572 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1606 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1606 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1607 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+4060 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+4060 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+4060 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+6326 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+6455 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+7243 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+830  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+859  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+860  [main] INFO  com.leo.util.Config -- Test properties
+860  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+860  [main] INFO  com.leo.util.Config -- browser=chrome
+860  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+860  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+861  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+861  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1395 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1395 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1395 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1395 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1423 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1423 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1423 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1423 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+3660 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+3660 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+3660 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+3660 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+9724 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734667412979
+9724 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+10309 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734667413932
+10310 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+11836 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734667415159
+11836 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+12386 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734667415720
+12386 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+821  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+851  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+852  [main] INFO  com.leo.util.Config -- Test properties
+852  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+852  [main] INFO  com.leo.util.Config -- browser=chrome
+852  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+852  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+853  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+853  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+882  [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+882  [TestNG-tests-3] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+882  [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+6206 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+6206 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+6206 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+10622 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+11338 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+11442 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+990  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1041 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+1043 [main] INFO  com.leo.util.Config -- Test properties
+1043 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+1043 [main] INFO  com.leo.util.Config -- browser=chrome
+1044 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+1044 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+1044 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+1044 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1081 [TestNG-tests-3] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1081 [TestNG-tests-4] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1081 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1081 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+3609 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+3609 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+3609 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+3609 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+11582 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734667977950
+11582 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+11902 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734667978035
+11902 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+12628 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734667978796
+12628 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+12794 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734667978812
+12794 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+900  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+938  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+939  [main] INFO  com.leo.util.Config -- Test properties
+940  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+940  [main] INFO  com.leo.util.Config -- browser=firefox
+940  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+940  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+940  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+940  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+977  [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+977  [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+977  [TestNG-tests-4] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+977  [TestNG-tests-3] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+13016 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+13016 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+13016 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+13016 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+22494 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734668027077
+22494 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+24001 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734668028304
+24001 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+24061 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734668028256
+24061 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+25013 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734668029168
+25013 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+1093 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1124 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+1126 [main] INFO  com.leo.util.Config -- Test properties
+1126 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+1126 [main] INFO  com.leo.util.Config -- browser=firefox
+1126 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+1126 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+1126 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+1126 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+3054 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+3055 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+3055 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+3057 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+3092 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+3092 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+3092 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+3092 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+6992 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+6992 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+6992 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+6992 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+15584 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734811679063
+15585 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+15598 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734811678896
+15598 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+17247 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734811680746
+17249 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+18072 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734811681746
+18072 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+1188 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+1230 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+1231 [main] INFO  com.leo.util.Config -- Test properties
+1231 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+1231 [main] INFO  com.leo.util.Config -- browser=firefox
+1231 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+1231 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+1231 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+1231 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1929 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1929 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1929 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1975 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1975 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1975 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+4665 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+4665 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+4665 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+9888 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+10161 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+10365 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+972  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1003 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+1004 [main] INFO  com.leo.util.Config -- Test properties
+1004 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+1004 [main] INFO  com.leo.util.Config -- browser=chrome
+1004 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+1004 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+1005 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+1005 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1031 [TestNG-tests-3] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1031 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1031 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1031 [TestNG-tests-4] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+6192 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+6192 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+6192 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+6192 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+14034 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734811870653
+14034 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+14628 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734811871381
+14628 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+16742 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734811873576
+16742 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+17488 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734811873917
+17488 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+917  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+943  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+946  [main] INFO  com.leo.util.Config -- Test properties
+946  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+946  [main] INFO  com.leo.util.Config -- browser=chrome
+946  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+946  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+946  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+946  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1487 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1487 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1487 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1528 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1528 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1528 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+4064 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+4064 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+4064 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+9070 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+9298 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+9357 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+877  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+910  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+913  [main] INFO  com.leo.util.Config -- Test properties
+913  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+913  [main] INFO  com.leo.util.Config -- browser=chrome
+913  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+913  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+913  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+913  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1470 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1470 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1470 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1507 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1508 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1508 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+3546 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+3546 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+3546 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+8121 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+8180 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+9015 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+1052 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1097 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+1098 [main] INFO  com.leo.util.Config -- Test properties
+1099 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+1099 [main] INFO  com.leo.util.Config -- browser=firefox
+1099 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+1100 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+1100 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+1100 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1146 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1146 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1146 [TestNG-tests-3] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1146 [TestNG-tests-4] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+13832 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+13832 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+13832 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+13832 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+40962 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734812545755
+40962 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+41329 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734812546576
+41329 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+41340 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734812546740
+41340 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+41370 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734812545389
+41370 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+1426 [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\03-automation-framework\selenium-docker\src\test\resources\test-suites\flight-reservation.xml
+
+1464 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+1466 [main] INFO  com.leo.util.Config -- Test properties
+1466 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+1466 [main] INFO  com.leo.util.Config -- browser=firefox
+1466 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+1467 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+1467 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+1467 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1517 [TestNG-tests-4] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1517 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1517 [TestNG-tests-3] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1517 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+10117 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+10117 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+10117 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+10117 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+37843 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734812865056
+37845 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+38228 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734812863488
+38230 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+38262 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734812864066
+38263 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+38281 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734812865322
+38281 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+1031 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+1036 [main] INFO  com.leo.util.Config -- Test properties
+1036 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+1036 [main] INFO  com.leo.util.Config -- browser=firefox
+1036 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+1036 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+1036 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+1036 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1062 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1062 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+8902 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+8902 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+11859 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+13384 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+14075 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+18054 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+21417 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+23270 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+23270 [main] INFO  com.leo.util.Config -- Test properties
+23270 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+23270 [main] INFO  com.leo.util.Config -- browser=firefox
+23270 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+23270 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+23270 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+23271 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+23272 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+23272 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+26384 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+26471 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+32057 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734815333619
+32058 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+32845 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+34457 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734815335793
+34458 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+35569 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+35720 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+38468 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+44626 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734815346078
+44626 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+45148 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734815346671
+45149 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+782  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+789  [main] INFO  com.leo.util.Config -- Test properties
+790  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+790  [main] INFO  com.leo.util.Config -- browser=chrome
+790  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+790  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+790  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+790  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+822  [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+822  [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+6662 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+6662 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+10517 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+11003 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+11833 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+12486 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+16913 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+17075 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+17076 [main] INFO  com.leo.util.Config -- Test properties
+17076 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+17077 [main] INFO  com.leo.util.Config -- browser=chrome
+17077 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+17077 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+17077 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+17077 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+17078 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+17078 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+17623 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+17658 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+24907 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734815807807
+24908 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+24999 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+25522 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734815808050
+25523 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+25532 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+25630 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+26232 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+33756 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734815816650
+33757 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+33767 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734815816474
+33767 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+796  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+804  [main] INFO  com.leo.util.Config -- Test properties
+804  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+804  [main] INFO  com.leo.util.Config -- browser=firefox
+805  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+805  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+805  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+805  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+838  [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+838  [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+8611 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+8611 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+11831 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+12276 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+14387 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+17289 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+20757 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+21815 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+21815 [main] INFO  com.leo.util.Config -- Test properties
+21816 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+21816 [main] INFO  com.leo.util.Config -- browser=firefox
+21816 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+21816 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+21816 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+21816 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+21818 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+21818 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+24885 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+24913 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+33155 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734834792400
+33156 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+33929 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+33932 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734834793053
+33932 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+34826 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+36730 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+37991 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+45603 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734834804866
+45603 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+46319 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734834805724
+46319 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+759  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+766  [main] INFO  com.leo.util.Config -- Test properties
+766  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+766  [main] INFO  com.leo.util.Config -- browser=firefox
+766  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+766  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+766  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+766  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+804  [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+804  [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+6623 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+6623 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+9792 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+10895 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+11101 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+14056 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+17406 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+18385 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+18385 [main] INFO  com.leo.util.Config -- Test properties
+18385 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+18385 [main] INFO  com.leo.util.Config -- browser=firefox
+18385 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+18386 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+18386 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+18386 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+18388 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+18388 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+21544 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+21555 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+30168 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734835217734
+30169 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+30924 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+33243 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734835220430
+33243 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+33438 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+34223 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+37534 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+42874 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734835230173
+42874 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+45667 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734835233029
+45667 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+841  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+847  [main] INFO  com.leo.util.Config -- Test properties
+847  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+848  [main] INFO  com.leo.util.Config -- browser=firefox
+848  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+848  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+848  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+848  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+891  [TestNG-tests-3] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+891  [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+891  [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+7251 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+7251 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+7251 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+12284 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+12879 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+13401 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+14685 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+14686 [main] INFO  com.leo.util.Config -- Test properties
+14686 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+14686 [main] INFO  com.leo.util.Config -- browser=firefox
+14686 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+14686 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+14686 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+14686 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+14687 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+14687 [TestNG-tests-4] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+14687 [TestNG-tests-3] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+14687 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+20136 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+20148 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+20151 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+20222 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+30513 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734835356720
+30514 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+31646 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734835357642
+31646 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+31809 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734835357935
+31810 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+34472 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734835360483
+34473 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+699  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+704  [main] INFO  com.leo.util.Config -- Test properties
+705  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+705  [main] INFO  com.leo.util.Config -- browser=firefox
+705  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+705  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+705  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+705  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+741  [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+741  [TestNG-tests-3] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+741  [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+7607 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+7607 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+7607 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+10740 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+12194 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+12777 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+16061 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+16062 [main] INFO  com.leo.util.Config -- Test properties
+16062 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+16062 [main] INFO  com.leo.util.Config -- browser=firefox
+16063 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+16063 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+16063 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+16063 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+16064 [TestNG-tests-4] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+16064 [TestNG-tests-3] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+16064 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+16064 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+20829 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+20920 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+20998 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+21032 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+31317 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734835526200
+31318 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+32983 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734835528018
+32983 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+33145 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734835528003
+33145 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+33456 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734835528296
+33456 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+910  [main] INFO  org.testng.internal.Utils -- [TestNG] Running:
+  C:\Trainings\Docker\Workspace\05-dockerize\selenium-docker\src\test\resources\test-suites\vendor-portal.xml
+
+950  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+952  [main] INFO  com.leo.util.Config -- Test properties
+952  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+952  [main] INFO  com.leo.util.Config -- browser=firefox
+952  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+952  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+952  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+952  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1023 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1024 [TestNG-tests-3] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+1023 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+13309 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+13309 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+13309 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+16792 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+17487 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+18205 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+764  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+772  [main] INFO  com.leo.util.Config -- Test properties
+773  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+773  [main] INFO  com.leo.util.Config -- browser=chrome
+773  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+773  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+773  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+773  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+809  [TestNG-tests-3] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+809  [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+809  [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+8174 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+8174 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+8174 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+18591 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+19904 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+20922 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+22167 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+22168 [main] INFO  com.leo.util.Config -- Test properties
+22169 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+22169 [main] INFO  com.leo.util.Config -- browser=chrome
+22169 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+22169 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=true
+22169 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+22169 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+22170 [TestNG-tests-4] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+22170 [TestNG-tests-2] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+22170 [TestNG-tests-1] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+22170 [TestNG-tests-3] INFO  com.leo.tests.AbstractTest -- Grid url: http://localhost:4444/wd/hub
+23242 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+23284 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+23288 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+23344 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+31841 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734897892244
+31841 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+31938 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734897892116
+31938 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+32053 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734897892540
+32053 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+32550 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734897892726
+32551 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+742  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+751  [main] INFO  com.leo.util.Config -- Test properties
+752  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+752  [main] INFO  com.leo.util.Config -- browser=firefox
+752  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+752  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+752  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+752  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1303 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1303 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1303 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1364 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1364 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1364 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+5308 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+5308 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+5308 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+8252 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+9162 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+9807 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+11539 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+11540 [main] INFO  com.leo.util.Config -- Test properties
+11540 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+11540 [main] INFO  com.leo.util.Config -- browser=firefox
+11540 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+11540 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+11542 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+11542 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+11567 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+11569 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+11576 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+11576 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+11588 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+11589 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+11596 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+11597 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+13384 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+13462 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+13468 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+13592 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+20230 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734897949295
+20230 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+21079 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734897949947
+21080 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+21950 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734897950730
+21951 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+23668 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734897952656
+23669 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+719  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+727  [main] INFO  com.leo.util.Config -- Test properties
+727  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+727  [main] INFO  com.leo.util.Config -- browser=firefox
+727  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+727  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+727  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+727  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1204 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1204 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1204 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1242 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1245 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1246 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+3249 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+3249 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+3249 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+6555 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+6920 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+10815 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+12407 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+12408 [main] INFO  com.leo.util.Config -- Test properties
+12408 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+12408 [main] INFO  com.leo.util.Config -- browser=firefox
+12408 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+12408 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+12408 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+12408 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+12436 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+12446 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+12449 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+12449 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+12462 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+12468 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+12469 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+12471 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+14197 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+14205 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+14279 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+14403 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+21372 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734898008441
+21372 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
+22061 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734898009394
+22061 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+23449 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734898010772
+23449 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+23674 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734898010645
+23674 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+674  [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+696  [main] INFO  com.leo.util.Config -- Test properties
+696  [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+696  [main] INFO  com.leo.util.Config -- browser=firefox
+696  [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+697  [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+697  [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+697  [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+1135 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1135 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1135 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+1183 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1183 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+1183 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+3479 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/sam.json
+3479 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/mike.json
+3479 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/vendor-portal/john.json
+6369 [TestNG-tests-3] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 0
+6506 [TestNG-tests-1] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 8
+8219 [TestNG-tests-2] INFO  c.l.p.vendorportal.DashboardPage -- Results count: 10
+9890 [main] INFO  com.leo.util.ResourceLoader -- Reading resource from location: config/default.properties
+9890 [main] INFO  com.leo.util.Config -- Test properties
+9891 [main] INFO  com.leo.util.Config -- selenium.grid.urlFormat=http://%s:4444/wd/hub
+9891 [main] INFO  com.leo.util.Config -- browser=firefox
+9891 [main] INFO  com.leo.util.Config -- vendorPortal.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/vendor-app/index.html
+9891 [main] INFO  com.leo.util.Config -- selenium.grid.enabled=false
+9891 [main] INFO  com.leo.util.Config -- flightReservation.url=https://d1uh9e7cu07ukd.cloudfront.net/selenium-docker/reservation-app/index.html
+9891 [main] INFO  com.leo.util.Config -- selenium.grid.hubHost=localhost
+9918 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+9926 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+9931 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+9931 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Using chromedriver 131.0.6778.204 (resolved driver for Chrome 131)
+9941 [TestNG-tests-1] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+9945 [TestNG-tests-3] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+9949 [TestNG-tests-2] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+9951 [TestNG-tests-4] INFO  i.g.bonigarcia.wdm.WebDriverManager -- Exporting webdriver.chrome.driver as C:\Users\leovi\.cache\selenium\chromedriver\win64\131.0.6778.204\chromedriver.exe
+11526 [TestNG-tests-1] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-1.json
+11528 [TestNG-tests-2] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-2.json
+11613 [TestNG-tests-3] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-3.json
+11622 [TestNG-tests-4] INFO  com.leo.util.ResourceLoader -- Reading resource from location: test-data/flight-reservation/passenger-4.json
+18292 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734898067251
+18293 [TestNG-tests-3] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1753 USD
+18470 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734898067076
+18470 [TestNG-tests-1] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $584 USD
+19051 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734898067842
+19051 [TestNG-tests-4] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $2338 USD
+19454 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Flight confirmation number: 2024-12-1734898068293
+19454 [TestNG-tests-2] INFO  c.l.p.f.FlightConfirmationPage -- Total price: $1169 USD
