@@ -18,11 +18,5 @@ WORKDIR /home/selenium-docker
 ADD target/docker-resources .
 ADD runner.sh runner.sh
 
-# ENVIRONMENT VARIABLES
-# BROWSER
-# HUB_HOST
-# THREAD_COUNT
-# TEST_SUIT
-
 # START THE runner.sh
 ENTRYPOINT sh runner.sh
